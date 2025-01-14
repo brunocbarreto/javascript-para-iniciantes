@@ -14,14 +14,14 @@ console.log(json); // '{"nome":"João","idade":30,"cidade":"Rio de Janeiro"}' */
 
 // Local Storage
 
-/* localStorage.setItem('nome','Tifa');
+/* localStorage.setItem('nome','Fernanda');
 let nome = localStorage.getItem('nome');
 console.log(nome); */
 
 /* let pessoa = {
    nome: 'Bruno',
-   idade: 38,
-   cidade:'Belo Horizonte'
+   idade: 35,
+   cidade:'Curitiba'
 };
 
 localStorage.setItem('pessoa',JSON.stringify(pessoa));
