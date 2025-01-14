@@ -1,6 +1,8 @@
 # javascript-para-iniciantes
 Repositório criado para os exercícios e práticas feitos por mim e que constam no livro JavaScript para Iniciantes.
+
 Autor do livro: Matheus Battisti
+
 Link para obter o livro na Amazon: https://a.co/d/j3po2IX
 
 # Instruções:
